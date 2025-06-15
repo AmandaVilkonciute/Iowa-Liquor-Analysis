@@ -8,7 +8,7 @@ This project analyzes liquor sales trends in Iowa from 2012 to 2017, focusing on
 
 Shows total liters of liquor sold in Iowa each month.
 
-![Monthly Sales Volume](1.png)
+![Monthly Sales Volume](2.png)
 
 ---
 
